@@ -22,7 +22,7 @@ const anmol = {
         backEnd: {
             js: []
         },
-        devOps: ["Nginx"],
+        devOps: [],
         databases: [],
         misc: []
     },
