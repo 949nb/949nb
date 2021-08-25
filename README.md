@@ -16,11 +16,11 @@ const anmol = {
     technologies: {
         mobileApp: [],
         frontEnd: {
-            js: ["Vue"],
+            js: ["Vue", "React"],
             css: ["element-ui", "iview"]
         },
         backEnd: {
-            js: []
+            js: [node.js]
         },
         devOps: [],
         databases: [],
