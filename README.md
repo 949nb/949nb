@@ -14,13 +14,13 @@ const anmol = {
     code: ["Javascript"],
     askMeAbout: ["web dev", "tech", "music"],
     technologies: {
-        mobileApp: [],
         frontEnd: {
-            js: ["Vue", "React"],
+            js: ["Vue"],
             css: ["element-ui", "iview"]
         },
         backEnd: {
-            js: [node.js]
+            Java: [],
+            Python: []
         },
         devOps: [],
         databases: [],
