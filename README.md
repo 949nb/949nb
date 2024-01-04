@@ -4,10 +4,6 @@
 <p><em>Software Engineer at home~<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![GitHub followers](https://img.shields.io/github/followers/949nb?label=Follow&style=social)
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 <!--
 **949nb/949nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +17,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![GitHub followers](https://img.shields.io/github/followers/949nb?label=Follow&style=social)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
